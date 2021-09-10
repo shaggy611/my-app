@@ -20,7 +20,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 //   nextYear() {
 //     console.log(1);
-//     this.setState(state => ({years: ++state.years}))
+//     this.setState((state) => ({years: ++state.years}))
 //   }
 
 //   render() {
